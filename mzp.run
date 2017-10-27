@@ -1,0 +1,8 @@
+name "MZP Plugin"
+
+version 0.1
+
+copy menuCreate.ms to $temp
+copy pythonScript.py to $temp
+
+run "install_scripts.ms"
