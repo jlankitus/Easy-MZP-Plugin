@@ -6,5 +6,5 @@ Running the cmd file generates the mzp plugin. <br>
 
 Email with any questions at Jediah: jed1ahdan@gmail.com or Ryan: Orion880916@gmail.com
 
-*directoryCopies.py in the /temp directory controls directory copies, as the name suggests.
+*directoryCopies.py in the /temp directory controls directory copies, as the name suggests.<BR>
 *install_scripts.ms controls individual file operations.
