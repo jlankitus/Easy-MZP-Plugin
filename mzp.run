@@ -5,8 +5,4 @@ version 0.1
 copy menuCreate.ms to $temp
 copy pythonScript.py to $temp
 
-copy "$temp\Poliigon\icons\*.bmp" to "$userIcons\"
-copy "$temp\Poliigon\icons\*.png" to "$userIcons\"
-copy "$temp\Poliigon\icons\*.ico" to "$userIcons\"
-
 run "install_scripts.ms"
