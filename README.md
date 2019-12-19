@@ -1,6 +1,6 @@
 Start with opening install_scripts.ms, instructions are contained within.<br><br>
 
-Helper project for creating your own mzp plugins that utilize a python script (my preferred method). <br>
+Helper project for creating your own mzp plugins that utilize a python script (our preferred method). <br>
 Scripts have been included for artists' use, reference, and convenience. <br>
 Running the cmd file generates the mzp plugin. <br>
 
