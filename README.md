@@ -7,8 +7,8 @@ Running the cmd file generates the mzp plugin. <br>
 Email any questions to Ryan: Orion880916@gmail.com or Jediah: jed1ahdan@gmail.com
 
 *directoryCopies.py in the /temp directory controls directory copies, as the name suggests.<BR>
-*install_scripts.ms controls individual file operations.
+*install_scripts.ms controls individual file operations.<BR><BR>
 
---First, copy all script files that you want to install and the directoryCopies.py to C:/Users/<User>/AppData/Local/Autodesk/3dsMax/<Version> - 64bit/ENU/temp.
---Adjust this file and the directoryCopies file to coincide with YOUR script files. Otherwise, you'll end up with our script collection installed.
---IMPORTANT: UPDATE YOUR VERSION OF MAX on the Line 11 of the directoryCopies.py file. Failure to do so will cause script failure.
+First, copy all script files that you want to install and the directoryCopies.py to C:/Users/<User>/AppData/Local/Autodesk/3dsMax/<Version> - 64bit/ENU/temp.<BR>
+Adjust this file and the directoryCopies file to coincide with YOUR script files. Otherwise, you'll end up with our script collection installed.<BR>
+IMPORTANT: UPDATE YOUR VERSION OF MAX on the Line 11 of the directoryCopies.py file. Failure to do so will cause script failure.
