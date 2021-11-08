@@ -7,7 +7,7 @@ Email any questions to Ryan: Orion880916@gmail.com or Jediah: jed1ahdan@gmail.co
 *directoryCopies.py in the /temp directory controls directory copies, as the name suggests.<BR>
 *install_scripts.ms controls individual file operations.<BR><BR>
 
-INSTRUCTIONS<BR><BR>
+INSTRUCTIONS<BR>
 1) First, copy all script files that you want to install and the directoryCopies.py to C:/Users/<User>/AppData/Local/Autodesk/3dsMax/<Version> - 64bit/ENU/temp. (Alternatively, you can unzip temp.zip and temp2.zip to that location.<BR>
 2) Adjust install_scripts.ms and the directoryCopies.py to coincide with YOUR script files. Otherwise, you'll end up with our script collection installed.<BR>
 3) IMPORTANT: UPDATE YOUR VERSION OF MAX on the Line 11 of the directoryCopies.py file. Failure to do so will cause tool failure.
